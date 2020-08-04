@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos 
 
-<h1>  El siguiente prorma realizado en la consola de C# se mostrara la indormacion de la actividaes que tiene un vendedor , lo cual consta 
+<h1>  El siguiente programa realizado en la consola de C# se mostrara la información de la actividaes que tiene un vendedor , lo cual consta 
 con una clase program y una clase Vendedor. </h1>
  
   <ul> 
@@ -12,14 +12,6 @@ con una clase program y una clase Vendedor. </h1>
 <li>Los nombres de las clases, objetos, métodos, atributos, variables, etcétera deben tener coherencia con el concepto que representan..</li> 
  
   </ul> 
- 
-
-
-
-
-
-
-
  
  # Como descarga 
  <ol> 
